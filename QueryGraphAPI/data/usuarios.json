@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "displayName": "Anderson belino",
+      "givenName": "Anderson",
+      "surname": "anderson",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "anderson.belino@izio.com.br"
+        }
+      ],
+      "password": "Pass!w0rd"
+    }
+  ]
+}
